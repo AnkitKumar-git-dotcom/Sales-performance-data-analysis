@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,product_name,category,city,sales_amount
+1001,2024-01-05,C001,Laptop,Electronics,Delhi,55000
+1002,2024-01-07,C002,Smartphone,Electronics,Mumbai,30000
+1003,2024-01-10,C003,Headphones,Accessories,Bangalore,2000
+1004,2024-02-02,C001,Laptop,Electronics,Delhi,55000
+1005,2024-02-14,C004,Keyboard,Accessories,Pune,1500
+1006,2024-03-01,C002,Smartphone,Electronics,Mumbai,30000
+1007,2024-03-10,C005,Monitor,Electronics,Hyderabad,12000
+1008,2024-03-15,C001,Mouse,Accessories,Delhi,800
+1009,2024-04-05,C006,Laptop,Electronics,Chennai,54000
+1010,2024-04-18,C002,Headphones,Accessories,Mumbai,2200
